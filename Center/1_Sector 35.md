@@ -1,10 +1,13 @@
-## 1. Requirements
+## 1. CHI_35_CTR
 
-##### 1. Frequency
+#### 1. Frequency
 * CHI_35_CTR - 127.800
-##### 2. Airspace
+#### 2. Airspace
 * The lateral boundaries of CHI_35_CTR are depicted below. CHI_35_CTR owns vertically from SFC to FL239.
-##### 3. KORD Arrivals
+#### 3. KORD Arrivals
+##### * Routing
+###### * West Flow
+*All turbojet inbound from the southeast, shall be routed via the __VEECK#, WATSN#, ESSPO#, or OXI#__ arrivals, in that order of preferance. 
 * VEECK# STAR
   * Instructed to cross BOONE at and maintain 12,000'
 * ESSPO# STAR
