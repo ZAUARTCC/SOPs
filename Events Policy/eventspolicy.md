@@ -2,24 +2,24 @@ Chicago ARTCC Events Policy
 ===
 Revision 1.1
 
-[Revisions](#revisions)
-[General](#general)
-[Event Definition and Types of Events](#event-definition-and-types-of-events)
-[Event Signup Process](#event-signup-process)
-[Position Assignment Process](#position-assignment-process)
-[Shifts](#shifts)
-[Position Restrictions](#position-restrictions)
-[The Day of the Event](#the-day-of-the-event)
-[Controller-In-Charge (CIC)](#controller-in-charge)
-[Event Cancellation Policy](#event-cancellation-policy)
-[Ratification](#ratification)
+1. [Revisions](#1-revisions)
+2. [General](#2-general)
+3. [Event Definition and Types of Events](#3-event-definition-and-types-of-events)
+4. [Event Signup Process](#4-event-signup-process)
+5. [Position Assignment Process](#5-position-assignment-process)
+6. [Shifts](#6-shifts)
+7. [Position Restrictions](#7-position-restrictions)
+8. [The Day of the Event](#8-the-day-of-the-event)
+9. [Controller-In-Charge (CIC)](#9-controller-in-charge)
+10. [Event Cancellation Policy](#10-event-cancellation-policy)
+11. [Ratification](#11-ratification)
 
-### Revisions
+### 1. Revisions
 Change | Description | Effective Date
 --- | --- | ---
 2015.2 | Add events cancellation policy | June 20, 2015
 2018.1 | Reformat to markdown. Remove lottery system shift assignment. Clarify duties of the CIC. | XXX XX, 2018 
-### General
+### 2. General
 ##### Purpose
 This event policy has been drafted to aid in the successful completion of various events held within the VATSIM network that directly or indirectly affect the vZAU airspace along with its major and minor facilities. The following information is for the benefit of all controllers, members, or visitors.
 ##### Uses
@@ -30,7 +30,7 @@ This document contains the procedures and policies in effect during events at th
 
 ##### Disclaimer
 Information contained herein is designed and specifically for the use in a virtual air traffic control environment on the VATSIM network. It is not applicable, nor should it be referenced for live operations or use in the National Airspace System.
-### Event Definition and Types of Events
+### 3. Event Definition and Types of Events
 ##### Event Definition
 An event shall be considered any time the Events Coordinator or his designee post sign-ups to sponsor a coordinated effort from controllers to staff specific positions for a specified amount of time.
 ##### Types of Events
@@ -41,7 +41,7 @@ An event shall be considered any time the Events Coordinator or his designee pos
 	 1. These events may either directly or indirectly involve one or more facilities within the Chicago ARTCC airspace. Support events are drafted by neighboring ARTCCS, Virtual Airlines, or VATUSA staff.
 	 2. Examples of support events include: Delta Virtual fly-in to Chicago, vZID hosting Friday Night Ops, Pacific Airways group flight KDEN to KDTW.
 
-### Event Signup Process
+### 4. Event Signup Process
 ##### Upcoming Events
 1. The vZAU Events Coordinator (EC) shall post each event to the vZAU webpage as events are scheduled, minimally 14 days prior to the event, with 48 hours notice minimum. Once an event is posted, the event will be available for controllers to bid for positions.
 2. If the EC is notified of an event without sufficient time to create signups and use the procedures contained in this document, he will determine an alternative signup process and publish it in the appropriate section of the vZAU forums.
@@ -69,7 +69,7 @@ An event shall be considered any time the Events Coordinator or his designee pos
 3. Controllers who sign up after the event signup process closes will be placed in positions on a first come, first served basis, after all signed up controllers have been placed in a position.
 **Note that controllers may ONLY sign up for positions they are currently certified on. Controllers may not assume a promotion will occur before an event deadline.**
 
-### Position Assignment Process
+### 5. Position Assignment Process
 ##### After Event Signups Have Closed:
 1. The EC will verify each controller has the certified for the positions they applied for.
 2. The EC, in partnership with the ATM or DATM, will place controllers in the position they deem is within the controller's experience and capabilities. 
@@ -83,7 +83,7 @@ An event shall be considered any time the Events Coordinator or his designee pos
 2. Controllers may reply to the post to claim the remaining spots.
 3. The remaining spots are on a first come, first served basis. I.e those who reply to the post first, receive their choice of positions.
 
-### Shifts
+### 6. Shifts
 ##### Duration:
 1. Event shifts will last from a minimum of one hour to a maximum of three hours.
 
@@ -98,7 +98,7 @@ An event shall be considered any time the Events Coordinator or his designee pos
 4. If for any reason, you think you will not hbe able to work the length of the shift, please contact the EC, or the CIC for the event), so that your time can be honored in the best way possible.
 5. Controllers are **encouraged** to sign up for more than one shift.
 
-### Position Restrictions
+### 7. Position Restrictions
 ##### Reservation of Position:
 1. Controllers who have signed up for positions may consider their position reserved for them on the day of the event and will equal logging in to the position per the VATSIM Code of Conduct.
     - The is provided that the event was announced, signups were published, and public display and announcement were given prior to the event deadline.  
@@ -114,7 +114,7 @@ An event shall be considered any time the Events Coordinator or his designee pos
 1. Occasionally, events may demand creating special ATC positions to fulfill the requirements of the event and faciltate efficient traffic flow. Susch positions may not be expressly outlined in the vZAU SOPs or positions table.
 2. These special positions or procedures will remain in effect only for the duration of the event and will not be applied or enforced outside of an event setting.
 
-### The Day of the Event
+### 8. The Day of the Event
 ##### Position Briefing:
 1. The EC will provide written position briefings to each controller at the close of signups (or as soon as practical afterwards).
     - The briefing will outline all of the procedures and strategy the controller will use to fulfill their role.
@@ -137,7 +137,7 @@ An event shall be considered any time the Events Coordinator or his designee pos
 2. If a controller is already logged in to your position prior to the event deadline, you must wait until the deadline before logging on to your position.
 3. If you need to relinquish your position prior to the official end of your shift, please make arrangements with the CIC as soon as possible prior to leaving so a replacement can be coordinate.
 
-### Controller-In-Charge
+### 9. Controller-In-Charge
 ##### Authority:
 1. For each facility event, vZAU will specify a Controller-In-Charge (CIC)
 2. The CIC will have the authority to make decisions to facilitate the successful outcome of the event.
@@ -160,13 +160,13 @@ An event shall be considered any time the Events Coordinator or his designee pos
 8. The CIC is responsible for, and has the final say, in approving all operations for the event including the ATIS information, runways in use, departure headings, holding patterns, ground stops, arrivals in use, sequencing and spacing of traffic, etc.
     - If a controller takes issue with instructions from the CIC, the controller shall wait until the end of the event to bring up the issue with the CIC or the appropriate vZAU staff member.
 
-### Event Cancellation Policy
+### 10. Event Cancellation Policy
 ##### When Events Are Cancelled:
 1. Large Events: 80% of the positions for the entire event must be signed up prior to one week before the event (excluding any ACE Team requests). If the 80% rule is not met, then the ACE Team request is to be made as soon as practical. If the 80% rule has not been met within 48 hours of the event (including ACE Team requests), the event is to be cancelled.
     - **Exception: Per VATUSA DP003, any Friday Night Ops event cannot be cancelled for any reason.**
 2. Small Events: At least 1 CTR, 1 APP, and 1 TWR position for each shift and the advertised airport needs to be staffed or the event is to be cancelled.
 
-### Ratification
+### 11. Ratification
 This document is signed into policy and becomes effective on XXX XX, 2018.
 
 
