@@ -1,5 +1,5 @@
-Chicago Midway International Airport (KMDW) Standard Operating Procedures
-===
+Chicago Midway International Airport (KMDW) 
+======
 ##### Disclaimer
 The follow are the standard operating procedures for use by Air Traffic Control Specialists at Chicago Midway International Airport on the VATSIM Network. Controllers are required to be familiar with the provisions of these procedures that pertain to their operational responsibilities and to exercise their best judgement if they encounter situations not covered by in this document. 
 These procedures and the information within this document are designed for and specifically for use in a virtual controlling environment and **should not be used nor referenced for live operations in the National Airspace System**. The procedures in this document outline how the positions are to be operated and will be the basis for performance evaluations, training, and certification.
@@ -73,8 +73,9 @@ rating or shall be in training for such having been cleared to be monitored on t
             7. Pilots readback all runway hold short and taxi instructions
             8. Advise on initial contact you have information (code)
 
-                NOTE 1 -- When MDW is landing converging runways, place a message in the voice ATIS advising of converging operations to converging runways in use.
-                NOTE 2 -- Prior to broadcasting, review the pending ATIS to ensure accuracy and inform pilots via voice and text of the updated information code being broadcast.
+                >NOTE 1 -- When MDW is landing converging runways, place a message in the voice ATIS advising of converging operations to converging runways in use.
+                
+                >NOTE 2 -- Prior to broadcasting, review the pending ATIS to ensure accuracy and inform pilots via voice and text of the updated information code being broadcast.
 
 ### Chapter 3. MDW Clearance Delivery
 3. MDW Clearance Delivery
@@ -105,15 +106,15 @@ are 22L or 31c, monitor UNICOM on 122.80.”`
 ### Chapter 4. MDW Ground Control
 4. MDW Ground Control
     1. **Positions**: Midway Ground Control (MDW_GND -- 121.650).  
-    2. **ASDE-X Surveillance System**: Chicago Midway International Airport is equipped with ASDE-X Surveillance Equipment to aid in the monitoring of ground movements. In accordance with ASDE-X operations, MDW controllers shall place a message in the voice ATIS advising all aircraft to taxi with their transponder and altitude encoding on. If a voice ATIS is not operational, Ground Control should request the pilot turn their transponder to Mode C upon initial contact.  
-NOTE -- Pilot participation in the simulation of ASDE-X Surveillance equipment is encouraged to enhance realism, but not required. In accordance with [VATSIM Code of Regulations](https://www.vatsim.net/documents/code-of-regulations), controllers shall not deny services to aircraft unable or unwilling to operate with Mode C on during ground movement operations.
+    2. **ASDE-X Surveillance System**: Chicago Midway International Airport is equipped with ASDE-X Surveillance Equipment to aid in the monitoring of ground movements. In accordance with ASDE-X operations, MDW controllers shall place a message in the voice ATIS advising all aircraft to taxi with their transponder and altitude encoding on. If a voice ATIS is not operational, Ground Control should request the pilot turn their transponder to Mode C upon initial contact. 
+        >NOTE -- Pilot participation in the simulation of ASDE-X Surveillance equipment is encouraged to enhance realism, but not required. In accordance with [VATSIM Code of Regulations](https://www.vatsim.net/documents/code-of-regulations), controllers shall not deny services to aircraft unable or unwilling to operate with Mode C on during ground movement operations.
     3. **Airport Movement Area**: The Airport Movement Area of Chicago Midway Airport is all runways, taxiways, and other areas which are utilized for taxiing/hover-taxiing, air taxiing, takeoff, and landing of aircraft, exclusive of loading ramps and parking areas.  
     4. **Ground Movement Operations**: Ground Controllers should reference the taxi diagrams below to determine the route necessary for inbound and outbound aircraft.  
         1. Maintain awareness of aircraft exiting a runway as their vacated position may interfere with an aircraft already taxiing.  
     5. **Runway Assignment**: Runways should be assigned to aircraft based on their vectored waypoint on the MDWAY# or CISRO# Departure or direction of flight if VFR.  
 
         Flow | Wind | Departure Runway
-        --- | --- | ---
+        :---: | :---: | :---:
         West | Winds 140-170 < 5kts | 22L, 31C
         West | Winds 180-360 | 22L, 31C
         West | Winds 010-040 < 5kts | 22L, 31C
@@ -131,7 +132,9 @@ NOTE -- Pilot participation in the simulation of ASDE-X Surveillance equipment i
 5. MDW Local Control
     1. **Positions**: Midway Local Control (MDW_TWR -- 118.700).  
     2. **ASDE-X Surveillance System**: Midway International Airport is equipped with ASDE-X Surveillance Equipment to aid in the monitoring of ground movements. In accordance with ASDE-X operations, MDW controllers shall place a message in the voice ATIS advising all aircraft to taxi with their transponder and altitude encoding on. If a voice ATIS is not operational, Local Control should request the pilot turn their transponder to Mode C upon initial contact.  
-NOTE -- Pilot participation in the simulation of ASDE-X Surveillance equipment is encouraged in order to enhance realism, but not required. In accordance with [VATSIM Code of Regulations](https://www.vatsim.net/documents/code-of-regulations), controllers shall not deny services to aircraft unable or unwilling to operate with Mode C on during ground movement operations. 
+
+        >NOTE -- Pilot participation in the simulation of ASDE-X Surveillance equipment is encouraged in order to enhance realism, but not required. In accordance with [VATSIM Code of Regulations](https://www.vatsim.net/documents/code-of-regulations), controllers shall not deny services to aircraft unable or unwilling to operate with Mode C on during ground movement operations. 
+    
     3. **Active Runways**: All runways are to be considered active unless Local Control specifically indicates that they are inactive or closed.  
     4. **Braking Action Reports**: All reports of *poor* to *nil* braking can be immediately recorded in an updated voice or text ATIS so that future operations can be coordinated. Local Control can issue braking reports as received from pilots when braking action advisories are in effect.  
     5. **Midway Tower Airspace**: In accordance with Chicago Approach Control (C90), C90 delegates to MDW ATCT the airspace within the Chicago Midway Class Charlie surface area.  
@@ -171,7 +174,7 @@ NOTE -- Pilot participation in the simulation of ASDE-X Surveillance equipment i
     9. **Runway Configurations and Initial Headings**:
 
         Flow | Wind | Departures | Headings
-        --- | --- | ---| ---
+        :---: | :---: | :---: | :---:
         West | Winds 140-170 < 5kts | 22L | 220, 250
         ||| 31C | 220, 250, Right turn 090 if MDW not landing 22L
         || Winds 180-260 | 22L | 220, 250
@@ -198,8 +201,9 @@ NOTE -- Pilot participation in the simulation of ASDE-X Surveillance equipment i
 
 ### Chapter 6. Glossary of Terms
 6. Glossary of Terms
+
     Term | Definition
-    --- | ---
+    :---: | ---
     AGL | Above Ground Level. This measurement changes as the topography of the earth changes.
     ARTCC | Air Route Traffic Control Center
     ASDE-X | Airport Surface Detection Equipment, model X, a runway safety tool that enables controllers to detect potential runway conflicts by providing coverage of movement of aircraft on runways and taxiways. 
